@@ -11,4 +11,6 @@ add_executable(typed_rows
         TextStorage.cpp
         TextStorage.h
         CipherManager.cpp
-        CipherManager.h)
+        CipherManager.h
+        main.cpp
+)
