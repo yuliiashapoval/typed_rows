@@ -7,4 +7,6 @@ include_directories(.)
 
 add_executable(typed_rows
         Line.cpp
-        Line.h)
+        Line.h
+        TextStorage.cpp
+        TextStorage.h)
